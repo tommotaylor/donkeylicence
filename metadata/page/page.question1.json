@@ -1,0 +1,33 @@
+{
+  "_id": "page.question1",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question1--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.question1--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.question1--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "no",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.question1--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "I don't know",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "Do you have a donkey?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "question1"
+}

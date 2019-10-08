@@ -1,0 +1,14 @@
+{
+  "_id": "page.thanks",
+  "_type": "page.confirmation",
+  "components": [
+    {
+      "_id": "page.thanks--content",
+      "_type": "content",
+      "html": "If you need help call us on 0800 567890"
+    }
+  ],
+  "heading": "Congratulations",
+  "lede": "That's all done",
+  "url": "thanks"
+}
